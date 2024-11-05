@@ -30,7 +30,6 @@ Developed for performance, accessibility, and scalability:
 - **Frontend:** Flutter for cross-platform support and modern UI.
 - **Backend:** Firebase for real-time data management and secure storage.
 - **Database:** Firebase Firestore for flexible data handling.
-- **APIs & Tools:** RESTful API integration for order tracking and notifications.
 
 ---
 
