@@ -96,6 +96,10 @@ LaptopHarbor/
 - **Push Notifications** for deals, order updates, and promotions.
 
 ---
+## 🎬 Demo Video
+Check out our demo video to see LaptopHarbor in action!
+
+https://github.com/user-attachments/assets/d4d68682-aa7c-4872-a025-229751f2dfb0
 
 ## 🛠 Contributing
 
