@@ -87,6 +87,16 @@ LaptopHarbor/
 ├── assets/            # Images, icons, and fonts
 └── README.md
 ```
+## 📜 Documentation
+- For detailed information on each feature, including setup, dependencies, and implementation, please refer to the Project Documentation : [Documentation for LaptopHarbor eCommerce App.docx](https://github.com/user-attachments/files/17629696/Documentation.for.LaptopHarbor.eCommerce.App.docx)
+
+
+ The documentation includes:
+
+- Project Background
+- Functional and Non-Functional Requirements
+- Hardware/Software Specifications
+- User and Developer Guidelines
 
 ---
 
