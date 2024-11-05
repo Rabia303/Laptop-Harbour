@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "719162286540",
+    "project_id": "laptop-harbour-db",
+    "storage_bucket": "laptop-harbour-db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719162286540:android:16a38048d9553938a37d69",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "your_api_key_here"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
