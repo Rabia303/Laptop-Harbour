@@ -8,12 +8,12 @@
 **LaptopHarbor** is designed to streamline the laptop shopping experience, connecting users with the best options in one convenient platform. With a focus on user experience, detailed specifications, and competitive pricing, LaptopHarbor is here to make choosing the right laptop easier than ever.
 
 ### Key Features
-- **🔒 Secure Login** and user registration to personalize the experience.
-- **💻 Extensive Listings** with advanced filters by brand, price, specifications, and ratings.
-- **🛒 Smooth Shopping Cart Experience** for easy selection, modification, and purchase.
-- **📦 Real-Time Order Tracking** with notifications on shipping and delivery status.
-- **❤️ Wish List** for saving favorite products.
-- **📞 Customer Support** integrated into the app for seamless user assistance.
+- **Secure Login** and user registration to personalize the experience.
+- **Extensive Listings** with advanced filters by brand, price, specifications, and ratings.
+- **Smooth Shopping Cart Experience** for easy selection, modification, and purchase.
+- **Real-Time Order Tracking** with notifications on shipping and delivery status.
+- **Wish List** for saving favorite products.
+- **Customer Support** integrated into the app for seamless user assistance.
 
 ---
 
